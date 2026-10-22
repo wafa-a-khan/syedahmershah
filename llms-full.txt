@@ -1,0 +1,246 @@
+# Syed Ahmer Shah: tribute and support page (full text)
+
+> Unofficial community tribute. Data snapshot: 22/10/2026 (2026-10-22). Information was collected from public pages and can change; verify at https://ahmershah.dev. Private contact details (personal e-mail, phone number, street address) are intentionally omitted.
+
+## Summary
+
+Syed Ahmer Shah, known as Ahmer, is a software engineer and full-stack developer from Hyderabad, Sindh, Pakistan. He is studying Software Engineering at the Hyderabad Institute for Technology and Management Sciences (HITMS) while completing a three-year Advanced Diploma in Software Engineering (ADSE) at Aptech Pakistan. He builds web applications with PHP, Laravel, React, Node.js and Django, documents his projects in detail, and has published more than forty articles on seven platforms. His tagline is "Designing order within the digital wilderness." The phrase "Top Software Engineer from Hyderabad, Sindh, Pakistan" is this tribute's headline, not an official ranking.
+
+## About
+
+- Full name: Syed Ahmer Shah (alias: Ahmer Shah)
+- Title: Software Engineer and Full-Stack Developer
+- Location: Hyderabad, Sindh, Pakistan. Remote-first, works with clients worldwide on Pakistan Standard Time (UTC+5).
+- Approach: uses AI tools (Claude, Claude Code, ChatGPT, GitHub Copilot, Cursor) to move faster while keeping design decisions and reasoning his own.
+- Goal: grow into a strong full-stack developer and build software that lasts.
+- Public practice: LeetCode profile syedahmershah, rank 138,172 at snapshot, 485 Java problems solved, 14 badges.
+- Client feedback: his portfolio shows three verified reviews averaging 5.0 on Clutch and Fiverr.
+
+## Education
+
+### St. Bonaventure's High School, Hyderabad (City Branch)
+- Programme: SSC, Computer Science
+- Period: Apr 2012 to Jul 2022 (completed)
+- Result: Grade A-1, 83.90%
+- Notes: His first introduction to Computer Science, and the study habits everything since has stood on.
+
+### Superior College of Science, Hyderabad
+- Programme: HSC, Pre-Engineering
+- Period: Jul 2022 to Jul 2024 (completed)
+- Result: Grade A, 70.45%
+- Notes: Analytical skills and the mathematical foundation for complex problem-solving.
+
+### Hyderabad Institute for Technology and Management Sciences (HITMS)
+- Programme: Bachelor's in Software Engineering
+- Period: Nov 2024 to Dec 2028 (in progress)
+- Notes: Modern development practices, algorithms and system design in a rigorous academic setting.
+
+### Aptech Pakistan
+- Programme: Advanced Diploma in Software Engineering (ADSE)
+- Period: Aug 2025 to Sep 2028 (in progress)
+- Notes: Parallel, industry-focused training in full-stack programming and software architecture.
+
+## Skills (self-rated, level out of 5, as listed on ahmershah.dev)
+
+### Languages
+- HTML5: 5/5
+- CSS3: 5/5
+- JavaScript: 5/5
+- PHP: 5/5
+- Java: 3/5
+- Python: 3/5
+- Dart: 2/5
+
+### Frameworks and UI
+- Bootstrap: 5/5
+- React: 4/5
+- Tailwind CSS: 2/5
+- Laravel: 2/5
+- Flutter: 2/5
+
+### Backend and data
+- MySQL: 5/5
+- Node.js: 4/5
+- Express: 4/5
+- MongoDB: 3/5
+- MSSQL Server: 3/5
+- Django: 3/5
+
+### Fundamentals
+- Data Structures and Algorithms: 4/5
+- OOP: 4/5
+
+### Platforms and tools
+- Git: 5/5
+- GitHub: 5/5
+- SEO: 5/5
+- Shopify: 3/5
+
+### AI toolkit
+- Claude: 5/5
+- Claude Code: 5/5
+- ChatGPT: 5/5
+- Codex: 4/5
+- Gemini: 4/5
+- DeepSeek: 3/5
+
+Learning next: deeper Laravel, Flutter, TypeScript.
+
+## Projects (2026)
+
+### HolidayOps
+- Kind: API platform
+- Stack: Django, React, MySQL, Redis, Celery, Three.js
+- Year: 2026
+- Summary: Answers the question payroll, HR and logistics teams ask daily: is this date a working day, here and in our other offices? It covers 250 countries and 624 regions, each with its own weekend and moved working days, and serves answers through a REST API, private iCal feeds, email digests and signed webhooks in English, Urdu and right-to-left Arabic.
+- Official page: https://ahmershah.dev/projects/holidayops
+- Source on GitHub: https://github.com/ahmershahdev/holidayops
+- Case study: https://ahmershah.dev/blogs/holidayops-case-study-working-days-api
+- Key numbers: 250 countries; 624 regions; 481 automated tests; 3 languages, incl. RTL (481 tests = 447 backend + 34 frontend)
+
+### Zovita+
+- Kind: Health
+- Stack: Laravel, React
+- Year: 2026
+- Summary: A health platform built with Laravel and React. The full write-up is on the official project page.
+- Official page: https://ahmershah.dev/projects/zovita
+
+### BookMyMovie
+- Kind: Booking
+- Stack: Laravel, React
+- Year: 2026
+- Summary: A movie booking platform built with Laravel and React. See the official project page for screens and details.
+- Official page: https://ahmershah.dev/projects/bookmymovie
+
+### GleanGrid
+- Kind: Marketplace
+- Stack: Laravel, React
+- Year: 2026
+- Summary: A full-stack farmers market pre-order platform built for local markets in Hyderabad, Sindh.
+- Official page: https://ahmershah.dev/projects/gleangrid
+
+### Commerza
+- Kind: E-commerce
+- Stack: PHP, MySQL
+- Year: 2026
+- Summary: A custom e-commerce storefront with the operations panel behind it, built in PHP and MySQL.
+- Official page: https://ahmershah.dev/projects/commerza
+
+## Experience
+
+### Full Stack Developer intern, XCL Technologies (Hyderabad, on-site)
+- Period: 15 July to 15 August 2026
+- Work: features for a university admission and examination portal, covering a student's journey from registration to exam slip.
+- Stack: PHP, Laravel, MySQL, JavaScript, Tailwind CSS, Bootstrap, HTML, CSS, Git, GitHub.
+- Portal flow:
+  1. Register and verify: Student registration with e-mail verification, secure sign-in and a personal dashboard.
+  2. Documents: Students submit and manage CNIC, photo, domicile, B-Form, PRC and other admission documents.
+  3. Validate and flag: Validation catches incorrect or inappropriate submissions and routes suspicious ones to the Super Admin.
+  4. Challan: Fee challans are generated from the application and can be downloaded as PDF, with a way to report errors.
+  5. Exam slip: Once the paid challan is submitted and every step is complete, the student downloads the exam slip.
+  6. Super Admin: A panel for Mini Admin creation, permissions, time-limited roles and access termination.
+- Rebuilt afterwards as Ahmer Institute of Technology: 31 tables with reporting views; student, admin, staff and teacher portals; race-safe approvals; CSRF protection, nonce-based CSP and rate limits. Source: https://github.com/ahmershahdev/Ahmer-Institute-of-Technology
+
+## Certificates
+
+Thirteen credentials on his portfolio (Coursera 7, LinkedIn Learning 3, HackerRank 3; eight issuers), each linking to the issuer's verification page. Highlights from public profiles:
+- Amazon Junior Software Developer (Amazon, Coursera)
+- Full-Stack Web Development (Amazon, Coursera)
+- Full Stack Web Development with PHP, HTML, CSS and JavaScript (Board Infinity, Coursera)
+- IBM DevOps and Software Engineering (IBM, Coursera)
+- Meta Full Stack Developer (Meta, Coursera)
+- Google IT Automation with Python (Google, Coursera)
+- IBM JavaScript Backend Developer (IBM, Coursera)
+
+## Services
+
+- Full-stack web apps: Custom applications with a real backend: authentication, dashboards, payments and admin panels, built on PHP/Laravel or the MERN stack.
+- E-commerce and Shopify: Shopify launches and custom PHP/MySQL storefronts with checkout, coupons, reviews and order tracking.
+- Front-end and landing pages: Fast, responsive, accessible marketing sites and UI builds in HTML, CSS, JavaScript, Bootstrap, Tailwind and React.
+- Cross-platform mobile apps: Flutter apps for iOS and Android backed by the same APIs as the web product.
+- SEO and AI integration: Technical SEO audits, structured data, sitemaps, plus assistants and automations built on ChatGPT, Claude and Gemini APIs.
+- Technical writing: Forty-plus published articles across seven platforms: tutorials, docs, blog posts, ghostwriting and SEO copy.
+
+## Public profiles and links
+
+### Professional
+- LinkedIn: https://linkedin.com/in/syedahmershah
+- LinkedIn Company: https://linkedin.com/company/syedahmershah
+- GitHub: https://github.com/ahmershahdev
+- Crunchbase (person): https://www.crunchbase.com/person/syed-ahmer-shah
+- Crunchbase (organization): https://www.crunchbase.com/organization/syed-ahmer-shah-b066
+- Wellfound: https://wellfound.com/u/syedahmershah
+- Arc.dev: https://arc.dev/@syedahmershah
+- AWS Builder Center: https://builder.aws.com/community/@syedahmershah
+
+### Coding and credentials
+- LeetCode: https://leetcode.com/u/syedahmershah
+- HackerRank: https://www.hackerrank.com/profile/syedahmershah
+- Credly: https://www.credly.com/users/syedahmershah/
+- Coursera: https://coursera.org/learner/syedahmershah
+
+### Social, @ahmershahdev
+- Instagram: https://instagram.com/ahmershahdev
+- TikTok: https://tiktok.com/@ahmershahdev
+- YouTube: https://youtube.com/@ahmershahdev
+- Facebook: https://www.facebook.com/ahmershahdev
+- X: https://x.com/ahmershahdev
+- Bluesky: https://bsky.app/profile/bluesky.ahmershah.dev
+- Pinterest: https://www.pinterest.com/ahmershahdev/
+
+### Design
+- Dribbble: https://dribbble.com/syedahmershah
+- Behance: https://www.behance.net/syedahmershah
+
+### Google and link hubs
+- Google Business Profile: https://g.page/r/CS9yn4Q_UhZ4EBM
+- Google Knowledge Panel: https://share.google/PzrJo1B8KbhAWnwvb
+- Linktree: https://linktr.ee/syedahmershah
+- Beacons: https://beacons.ai/syedahmershah
+- Gravatar: https://gravatar.com/syedahmershah
+
+### Writing
+- Blog: https://ahmershah.dev/blogs
+- RSS feed: https://ahmershah.dev/blogs/rss.xml
+- HackerNoon: https://hackernoon.com/u/syedahmershah
+
+### Hire directly
+- Fiverr: https://www.fiverr.com/ahmershahdev
+- Upwork: https://www.upwork.com/freelancers/~01d033487ce8ecd83f
+- Freelancer: https://www.freelancer.com/u/syedahmershah
+- Contra: https://contra.com/syedahmershah
+- Guru: https://www.guru.com/freelancers/syed-ahmer-shah
+- PeoplePerHour: https://www.peopleperhour.com/freelancer/technology-programming/syed_ahmer-shah-bringing-your-ideas-to-life-with-zxqqamxq
+- Workchest: https://workchest.com/freelancer/syedahmershah
+- Book a free call: https://calendly.com/syedahmershah
+
+### Reviews and directories
+- Clutch: https://clutch.co/profile/syed-ahmer-shah
+- G2: https://www.g2.com/products/syed-ahmer-shah/
+- Trustpilot: https://www.trustpilot.com/review/ahmershah.dev
+- DesignRush: https://www.designrush.com/agency/profile/syed-ahmer-shah
+- TechBehemoths: https://techbehemoths.com/company/syed-ahmer-shah
+- Edverise: https://edverise.com/profile/syed-ahmer-shah
+- Feedbax: https://feedbax.ai/profile/syed-ahmer-shah
+- Contra (studio): https://contra.com/company/syed-ahmer-shah_6d22c4
+
+## Official pages
+- Portfolio: https://ahmershah.dev
+- Projects: https://ahmershah.dev/projects
+- Blog: https://ahmershah.dev/blogs
+- Resume: https://ahmershah.dev/docs/syed-ahmer-shah-resume.pdf
+- Business enquiries: sales@ahmershah.dev
+- Support: support@ahmershah.dev
+
+## Ways to support
+
+- Visit the portfolio: Read the case studies and articles at ahmershah.dev. Every visit helps a young engineer's work get seen. (https://ahmershah.dev)
+- Star the code: Open-source work such as HolidayOps lives on GitHub. A star is a free, public vote of confidence. (https://github.com/ahmershahdev)
+- Follow and share: Build logs and clips go out under @ahmershahdev. Following and sharing carries them further. (https://linktr.ee/syedahmershah)
+- Hire or recommend: Need a full-stack build, a Shopify store or technical writing? Book a free call or hire through a marketplace. (https://calendly.com/syedahmershah)
+- Leave an honest review: If you have worked together, a review on Clutch, G2 or Fiverr helps the next client decide. (https://clutch.co/profile/syed-ahmer-shah)
+- Read the resume: The official resume is a single PDF, kept current by Ahmer himself. (https://ahmershah.dev/docs/syed-ahmer-shah-resume.pdf)
+
+## Data notice
+
+Snapshot date 22/10/2026 (day/month/year, 2026-10-22). Sources: ahmershah.dev, LinkedIn, Coursera, LeetCode, HackerNoon, G2, DesignRush. Rankings, ratings, grades, project lists and links may change. This is an unofficial tribute; the official site is the authority.
