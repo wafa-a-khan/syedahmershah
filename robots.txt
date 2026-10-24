@@ -1,8 +1,7 @@
-# Tribute page for Syed Ahmer Shah. Public, crawlable, including AI crawlers.
+# Tribute page for Syed Ahmer Shah. Public and crawlable, including AI crawlers.
 User-agent: *
 Allow: /
 
-# AI and LLM discovery files
 # /llms.txt and /llms-full.txt describe the page in plain text.
 
 Sitemap: https://ahmer-tribute.example.com/sitemap.xml
