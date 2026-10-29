@@ -1,0 +1,15 @@
+{
+  "name": "syedahmershah-pyramid-portfolio",
+  "private": true,
+  "scripts": {
+    "build": "esbuild src/main.js --bundle --minify --format=iife --target=es2020 --outfile=assets/app.js"
+  },
+  "dependencies": {
+    "animejs": "^4.5.0",
+    "lenis": "^1.3.27",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  }
+}

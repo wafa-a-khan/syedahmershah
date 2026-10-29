@@ -1,10 +1,12 @@
-# Syed Ahmer Shah: tribute and support page (full text)
+# Syed Ahmer Shah: portfolio (full text)
 
-> Unofficial community tribute. Data snapshot: 22/10/2026 (2026-10-22). Information was collected from public pages and can change; verify at https://ahmershah.dev. Private contact details (personal e-mail, phone number, street address) are intentionally omitted.
+> Data snapshot: 22/10/2026 (2026-10-22). Collected from public pages and can change; verify at https://ahmershah.dev. Private contact details (personal e-mail, phone number, street address) are intentionally omitted.
+
+Canonical page: https://wafa-a-khan.github.io/syedahmershah/
 
 ## Summary
 
-Syed Ahmer Shah, known as Ahmer, is a software engineer and full-stack developer from Hyderabad, Sindh, Pakistan. He is studying Software Engineering at the Hyderabad Institute for Technology and Management Sciences (HITMS) while completing a three-year Advanced Diploma in Software Engineering (ADSE) at Aptech Pakistan. He builds full-stack web applications and APIs, documents his projects in detail, and has published more than forty articles on seven platforms. His tagline is "Designing order within the digital wilderness." The phrase "Top Software Engineer from Hyderabad, Sindh, Pakistan" is this tribute's headline, not an official ranking.
+Syed Ahmer Shah, known as Ahmer, is a software engineer and full-stack developer from Hyderabad, Sindh, Pakistan. He is studying Software Engineering at the Hyderabad Institute for Technology and Management Sciences (HITMS) while completing a three-year Advanced Diploma in Software Engineering (ADSE) at Aptech Pakistan. He builds full-stack web applications and APIs, documents his projects in detail, and has published more than forty articles on seven platforms. His tagline is "Designing order within the digital wilderness."
 
 ## About
 
@@ -12,8 +14,7 @@ Syed Ahmer Shah, known as Ahmer, is a software engineer and full-stack developer
 - Title: Software Engineer and Full-Stack Developer
 - Location: Hyderabad, Sindh, Pakistan. Remote-first, works with clients worldwide on Pakistan Standard Time (UTC+5).
 - Approach: uses AI tools (Claude Code, GitHub Copilot, Cursor) to move faster while keeping design decisions and reasoning his own.
-- Goal: grow into a strong full-stack developer and build software that lasts.
-- Public practice: LeetCode profile syedahmershah, rank 138,172 at snapshot, 485 Java problems solved, 14 badges.
+- Public practice: LeetCode profile syedahmershah, rank 138,172 at snapshot, 485 Java problems solved.
 - Client feedback: his portfolio shows three verified reviews averaging 5.0 on Clutch and Fiverr.
 
 ## Education
@@ -45,38 +46,33 @@ Syed Ahmer Shah, known as Ahmer, is a software engineer and full-stack developer
 ### HolidayOps
 - Kind: API platform
 - Built with: Django, React, MySQL, Redis, Celery, Three.js
-- Year: 2026
 - Summary: Answers the question payroll, HR and logistics teams ask daily: is this date a working day, here and in our other offices? It covers 250 countries and 624 regions, each with its own weekend and moved working days, and serves answers through a REST API, private iCal feeds, email digests and signed webhooks in English, Urdu and right-to-left Arabic.
 - Official page: https://ahmershah.dev/projects/holidayops
 - Source on GitHub: https://github.com/ahmershahdev/holidayops
 - Case study: https://ahmershah.dev/blogs/holidayops-case-study-working-days-api
-- Key numbers: 250 countries; 624 regions; 481 automated tests; 3 languages, incl. right-to-left (481 tests = 447 backend + 34 frontend)
+- Key numbers: 250 countries; 624 regions; 481 automated tests; 3 languages, incl. right-to-left
 
 ### GleanGrid
 - Kind: Marketplace
 - Built with: Laravel, React
-- Year: 2026
 - Summary: A full-stack farmers market pre-order platform built for local markets in Hyderabad, Sindh.
 - Official page: https://ahmershah.dev/projects/gleangrid
 
 ### Zovita+
 - Kind: Health
 - Built with: Laravel, React
-- Year: 2026
 - Summary: A health platform built with Laravel and React. The full write-up is on the official project page.
 - Official page: https://ahmershah.dev/projects/zovita
 
 ### BookMyMovie
 - Kind: Booking
 - Built with: Laravel, React
-- Year: 2026
 - Summary: A movie booking platform built with Laravel and React. See the official project page for screens and details.
 - Official page: https://ahmershah.dev/projects/bookmymovie
 
 ### Commerza
 - Kind: E-commerce
 - Built with: PHP, MySQL
-- Year: 2026
 - Summary: A custom e-commerce storefront with the operations panel behind it, built in PHP and MySQL.
 - Official page: https://ahmershah.dev/projects/commerza
 
@@ -84,8 +80,7 @@ Syed Ahmer Shah, known as Ahmer, is a software engineer and full-stack developer
 
 ### Full Stack Developer intern, XCL Technologies (Hyderabad, on-site)
 - Period: 15 July to 15 August 2026
-- Work: features for a university admission and examination portal, covering a student's journey from registration to exam slip.
-- Built with: PHP, Laravel, MySQL, JavaScript, Tailwind CSS, Bootstrap, Git and GitHub.
+- Work: features for a university admission and examination portal.
 - Portal flow:
   1. Register and verify: Student registration with e-mail verification, secure sign-in and a personal dashboard.
   2. Documents: Students submit and manage CNIC, photo, domicile, B-Form, PRC and other admission documents.
@@ -93,11 +88,10 @@ Syed Ahmer Shah, known as Ahmer, is a software engineer and full-stack developer
   4. Challan: Fee challans are generated from the application and can be downloaded as PDF, with a way to report errors.
   5. Exam slip: Once the paid challan is submitted and every step is complete, the student downloads the exam slip.
   6. Super Admin: A panel for Mini Admin creation, permissions, time-limited roles and access termination.
-- Rebuilt afterwards as Ahmer Institute of Technology: 31 tables with reporting views; student, admin, staff and teacher portals; race-safe approvals; CSRF protection, nonce-based CSP and rate limits. Source: https://github.com/ahmershahdev/Ahmer-Institute-of-Technology
+- Rebuilt afterwards as Ahmer Institute of Technology. Source: https://github.com/ahmershahdev/Ahmer-Institute-of-Technology
 
 ## Certificates
 
-Thirteen credentials on his portfolio (Coursera 7, LinkedIn Learning 3, HackerRank 3; eight issuers), each linking to the issuer's verification page. Highlights from public profiles:
 - Amazon Junior Software Developer (Amazon, Coursera)
 - Full-Stack Web Development (Amazon, Coursera)
 - Full Stack Web Development with PHP, HTML, CSS and JavaScript (Board Infinity, Coursera)
@@ -178,23 +172,6 @@ Thirteen credentials on his portfolio (Coursera 7, LinkedIn Learning 3, HackerRa
 - Feedbax: https://feedbax.ai/profile/syed-ahmer-shah
 - Contra (studio): https://contra.com/company/syed-ahmer-shah_6d22c4
 
-## Official pages
-- Portfolio: https://ahmershah.dev
-- Projects: https://ahmershah.dev/projects
-- Blog: https://ahmershah.dev/blogs
-- Resume: https://ahmershah.dev/docs/syed-ahmer-shah-resume.pdf
-- Business enquiries: sales@ahmershah.dev
-- Support: support@ahmershah.dev
-
-## Ways to support
-
-- Visit the portfolio: Read the case studies and articles. Every visit helps a young engineer's work get seen. (https://ahmershah.dev)
-- Star the code: Open-source work such as HolidayOps lives on GitHub. A star is a free, public vote of confidence. (https://github.com/ahmershahdev)
-- Follow and share: Build logs and clips go out under @ahmershahdev. Following and sharing carries them further. (https://linktr.ee/syedahmershah)
-- Hire or recommend: Need a full-stack build, a Shopify store or technical writing? Book a free 20-minute call. (https://calendly.com/syedahmershah)
-- Leave an honest review: If you have worked together, a review on Clutch or Fiverr helps the next client decide. (https://clutch.co/profile/syed-ahmer-shah)
-- Read the resume: The official resume is a single PDF, kept current by Ahmer himself. (https://ahmershah.dev/docs/syed-ahmer-shah-resume.pdf)
-
 ## Data notice
 
-Snapshot date 22/10/2026 (day/month/year, 2026-10-22). Sources: ahmershah.dev, LinkedIn, Coursera, LeetCode, HackerNoon, G2, DesignRush. Rankings, ratings, grades, project lists and links may change. This is an unofficial tribute; the official site is the authority.
+Snapshot date 22/10/2026 (day/month/year, 2026-10-22). Rankings, ratings, grades, project lists and links may change. The official site, https://ahmershah.dev, is the authority.

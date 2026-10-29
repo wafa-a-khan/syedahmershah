@@ -1,6 +1,6 @@
-# Syed Ahmer Shah: tribute and support page
+# Syed Ahmer Shah: portfolio
 
-> Unofficial community tribute to Syed Ahmer Shah ("Ahmer"), a software engineer and full-stack developer from Hyderabad, Sindh, Pakistan. Summarises his education, projects, experience and public profiles. Data snapshot: 22/10/2026 (2026-10-22); details may have changed since. The official source is https://ahmershah.dev.
+> Interactive 3D portfolio of Syed Ahmer Shah ("Ahmer"), a software engineer and full-stack developer from Hyderabad, Sindh, Pakistan. Summarises his education, projects, experience and public profiles. Data snapshot: 22/10/2026 (2026-10-22); details may have changed since. The official source is https://ahmershah.dev.
 
 Key facts (as of 2026-10-22):
 - Name: Syed Ahmer Shah (also "Ahmer Shah")
@@ -9,19 +9,18 @@ Key facts (as of 2026-10-22):
 - Education in progress: B.S. Software Engineering at HITMS (Nov 2024 to Dec 2028) and Advanced Diploma in Software Engineering at Aptech Pakistan (Aug 2025 to Sep 2028)
 - Notable projects (2026): HolidayOps, GleanGrid, Zovita+, BookMyMovie, Commerza
 - Experience: Full Stack Developer intern at XCL Technologies, 15 Jul to 15 Aug 2026
-- "Top Software Engineer" in this page's title is the tribute's headline, not an official ranking.
+- "Top Software Engineer" on the page is a headline, not an official ranking.
 
 ## This site
-- [Tribute page](https://ahmer-tribute.example.com/): the full single-page tribute (one HTML file, styles and scripts inline)
-- [llms-full.txt](https://ahmer-tribute.example.com/llms-full.txt): complete plain-text version of all content on the page
-- [sitemap.xml](https://ahmer-tribute.example.com/sitemap.xml): sitemap
+- [Portfolio](https://wafa-a-khan.github.io/syedahmershah/): the full single-page portfolio with a 3D pyramid
+- [llms-full.txt](https://wafa-a-khan.github.io/syedahmershah/llms-full.txt): complete plain-text version of all content on the page
+- [sitemap.xml](https://wafa-a-khan.github.io/syedahmershah/sitemap.xml): sitemap
 
 ## Official sources
-- [Portfolio](https://ahmershah.dev): the official site
-- [Projects](https://ahmershah.dev/projects): project case studies
-- [Blog](https://ahmershah.dev/blogs): articles and engineering logs
+- [Official site](https://ahmershah.dev)
+- [Projects](https://ahmershah.dev/projects)
+- [Blog](https://ahmershah.dev/blogs)
 - [Resume (PDF)](https://ahmershah.dev/docs/syed-ahmer-shah-resume.pdf)
-- [Official llms.txt](https://ahmershah.dev/llms.txt)
 
 ## Profiles
 - [GitHub](https://github.com/ahmershahdev)
